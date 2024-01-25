@@ -1,0 +1,9 @@
+{
+   "filePath": "path_of_wav_file",
+   "contentType": "wav",
+   "sampleRate": 8000,
+   "chunkingSupport" : false,
+   "chunkDuration": 3,
+   "bitDepth":8,
+   "publicIp": "public_url.example.com/"
+}
